@@ -14,7 +14,7 @@ Start-up Pitch Deck Guide:
 
 1. Explaining the Problem : Explain it with short bullet points if possible.
 
-* A Quick visual story which explain the problem statement correctly might be helpful.
+A Quick visual story which explain the problem statement correctly might be helpful.
 
 If investor doesn't consider the problem you are talking about as a "real problem" then it doesn't matter whether you are right or wrong because investors aren't the great economist or genius like Socrates they are regular people with money. 
 
@@ -46,4 +46,4 @@ Your answer to the "major flaws" will tell investor about your understanding reg
 
 8. Fund-raising plan and objectives : Mention in bullet points what will you do with the money you are asking for.
 
-Now You can ask for investment and make negotiations. 
+Now, You can ask for investment and make negotiations and close the deal. 
