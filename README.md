@@ -47,3 +47,19 @@ Your answer to the "major flaws" will tell investor about your understanding reg
 8. Fund-raising plan and objectives : Mention in bullet points what will you do with the money you are asking for.
 
 Now, You can ask for investment and make negotiations and close the deal. 
+
+# Venture Capital Methematics and it's role in creation of startup ecosystem
+
+This is the simplified version of data science research by Sabestian Quintero I shared below.
+
+[startup-valuations](https://medium.com/journal-of-empirical-entrepreneurship/making-sense-of-startup-valuations-with-data-science-1dededaf18bb)
+
+[startup-runway-avg-time](https://medium.com/journal-of-empirical-entrepreneurship/how-much-runway-should-you-target-between-financing-rounds-478b1616cfb5)
+
+[startup-failure-rate](https://medium.com/journal-of-empirical-entrepreneurship/dissecting-startup-failure-by-stage-34bb70354a36)
+
+![alt text](https://github.com/yashp241195/startup_pitch_deck/blob/main/vcmath.png)
+![alt text](https://github.com/yashp241195/startup_pitch_deck/blob/main/advise.png)
+
+
+
