@@ -64,11 +64,8 @@ This is the simplified version of data science research by Sabestian Quintero I 
 # Key ingredients for Big Tech
 
 1. Find big enough marketing funnel which is accessible to you.
-
 2. Build a lean and scalable product for that marketing funnel which can store some "valuable data".
-
- a. Valuable data must improves over time and act like an asset.
-
- b. Valuable data must be helpful in solving problems in other businesses.
+ - Valuable data must improves over time and act like an asset.
+ - Valuable data must be helpful in solving problems in other businesses.
 
 
